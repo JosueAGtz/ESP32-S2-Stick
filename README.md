@@ -5,3 +5,7 @@ Breadboard compatible development board featuring the ESP32-S2 series of SoC, Xt
 USB-C connector, castellated holes for low profile integrations and a on board PCB antenna.
 
 ![ESP32-S2 Stick](https://savageelectronics.com/wp-content/uploads/2022/03/ESP32S2-STICK-Pinout.png)
+
+![ESP32-S2 Stick SCH](https://savageelectronics.com/wp-content/uploads/2022/03/ESP32S2_STICKSCH.png)
+
+![ESP32-S2 Stick BRD](https://savageelectronics.com/wp-content/uploads/2022/03/ESP32S2_STICKBRD.png)
